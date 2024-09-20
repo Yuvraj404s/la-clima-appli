@@ -1,0 +1,9 @@
+com\weatherapp\service\WeatherService$WeatherApiResponse$Location.class
+com\weatherapp\WeatherAppApplication.class
+com\weatherapp\controller\WeatherController.class
+com\weatherapp\model\WeatherData.class
+com\weatherapp\repository\WeatherDataRepository.class
+com\weatherapp\service\WeatherService.class
+com\weatherapp\service\WeatherService$WeatherApiResponse.class
+com\weatherapp\service\WeatherService$WeatherApiResponse$Current$Condition.class
+com\weatherapp\service\WeatherService$WeatherApiResponse$Current.class
